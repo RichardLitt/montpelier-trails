@@ -15,11 +15,15 @@ I wanted a map of interactive trails in Montpelier. This repo is my attempt to g
 
 ## Install
 
-Clone the repo and run `node index.js`. There's nothing exported at the moment.
+```sh
+$ npm install montpelier-trails
+```
 
 ## Usage
 
-`node index.js`
+```sh
+$ node index.js
+```
 
 ### Tests
 
